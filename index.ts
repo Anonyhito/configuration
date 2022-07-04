@@ -16,6 +16,7 @@ creator('PromptJS19')
 creator('rayriffy')
 creator('SaltyAom')
 creator('Leomotors')
+creator('Anonyhito')
 
 // Website team
 const websiteMaintainer = team('website', {
